@@ -54,7 +54,7 @@ nav {
   height: 80px;
   background-color: #252831;
   text-align:center;
-  display: flex; /* in order to center text */
+  display: flex; /* in order to center text + text must have margin auto */
 }
 nav h1 {
   margin: auto;
